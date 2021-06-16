@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      "react-native-week-view@0.3.0",
+      "D:\\BrossardDesign\\timebox-app\\timebox-frontend"
+    ]
+  ],
+  "_from": "react-native-jour-view",
+  "_id": "react-native-jour-view@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-gFCLIpY8zgKQkngdiFHWyB4PxE/0EaJQJCwMhdsMeKYdwTe04fm7vEU7FtT3OfSzTCjnyIDUoxoIHRBAdJsBzA==",
+  "_location": "/react-native-jour-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-jour-view",
+    "name": "react-native-jour-view",
+    "escapedName": "react-native-jour-view",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-jour-view/-/react-native-jour-view-0.0.1.tgz",
+  "_shasum": "5577c3646a0ccb95c5dcb8f7051d728ed0150c7e",
+  "_spec": "react-native-jour-view",
+  "_where": "D:\\BrossardDesign\\timebox-app\\timebox-frontend",
+  "author": {
+    "name": "Hoang Nguyen",
+    "url": "https://github.com/hoangnm"
+  },
+  "bugs": {
+    "url": "https://github.com/hoangnm/react-native-week-view/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "memoize-one": "^5.1.1",
+    "moment": "^2.19.3",
+    "prop-types": "^15.7.2"
+  },
+  "deprecated": false,
+  "description": "Week View Calendar for React Native",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "6.8.0",
+    "eslint-config-airbnb": "18.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "2.5.0",
+    "prettier": "^2.0.5"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "homepage": "https://github.com/hoangnm/react-native-week-view#readme",
+  "keywords": [
+    "android",
+    "ios",
+    "react-native",
+    "react",
+    "react-component",
+    "weekview",
+    "calendar"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-jour-view",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangnm/react-native-week-view.git"
+  },
+  "scripts": {
+    "lint": "eslint ./src *.js"
+  },
+  "version": "0.0.1"
+}
